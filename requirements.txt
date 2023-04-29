@@ -4,3 +4,4 @@ sklearn
 train_test_split
 SVC
 accuracy_score
+scikit-learn==0.24.2

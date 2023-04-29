@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 
+
 # Load the dataset
 df = pd.read_csv('ardd_fatalities.csv')
 
