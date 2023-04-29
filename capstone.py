@@ -71,5 +71,3 @@ accuracy = accuracy_score(y_test_data, y_prediction)
 # Display results
 st.subheader("Classification (Predictive Analytics)")
 st.write("Accuracy (SVM):", accuracy)
-
-
