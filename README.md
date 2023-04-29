@@ -1,2 +1,2 @@
 # capstone-project
- Software Technology Assig
+Software Technology Assignment
